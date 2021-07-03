@@ -17,7 +17,7 @@ This exercise began by:
 •	Print the imbalanced classification report
 The item “4” above was repeated to determine the best accuracy score as well as other relevant scores. Below is a table showing the summary of the result
 
-
+![](Images/)Resample Picture1.png)
  
 For this technique, the following questions were answered:
 Which model had the best-balanced accuracy score? From the above, the oversampling model (Random and SMOTE) as well as the combination sampling has same accuracy score of 0.9934649587814939.
